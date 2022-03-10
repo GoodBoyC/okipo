@@ -1,20 +1,20 @@
 # okipo
 Tool to hack Facebook
 
-# Install
+## Install
 pip install futures
 pip install requests
 pip install mechanize
 pip install bs4
 
 
-# Clone
+## Clone
 git clone https://github.com/GoodboyC/okipo
 
-
-# Run command
+## Run command
 cd okipo
 python chinda
+
 
 # Credit
 Credits to Arya
